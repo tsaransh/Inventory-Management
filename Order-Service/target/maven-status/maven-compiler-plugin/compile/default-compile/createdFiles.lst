@@ -1,0 +1,12 @@
+com\web\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\web\orderservice\dto\OrderLineItemsDto.class
+com\web\orderservice\model\Order.class
+com\web\orderservice\repository\OrderRepository.class
+com\web\orderservice\dto\InventoryResponse.class
+com\web\orderservice\service\OrderService.class
+com\web\orderservice\config\WebFluxConfig.class
+com\web\orderservice\controller\OrderController.class
+com\web\orderservice\dto\OrderResponse.class
+com\web\orderservice\model\OrderLineItems.class
+com\web\orderservice\OrderServiceApplication.class
+com\web\orderservice\dto\OrderRequest.class
